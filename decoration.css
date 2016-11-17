@@ -1,0 +1,19 @@
+body{
+background-color:#DFE2DB;
+padding:none;
+margin:none;
+}
+.w3-tangerine {
+  font-family: "Tangerine", serif;
+  font-size:30px;
+}
+#drop{
+	position:absolute;
+	top:10%;
+	left:80%;
+}
+#person{
+	line-height:80%;
+	position:absolute;
+	
+}
